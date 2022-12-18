@@ -1,5 +1,3 @@
-fullnameOverride: tempo-xx
-
 replicas: 3
 
 tempoAddress:
