@@ -1,2 +1,1 @@
-tempo-vulture:
-  replicas: 5
+replicas: 5
