@@ -1,10 +1,5 @@
 fullnameOverride: tempo-xx
 
-serviceMonitor:
-  enabled: true
-  labels:
-    testing: enabled
-
 replicas: 3
 
 tempoAddress:
