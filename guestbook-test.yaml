@@ -1,1 +1,2 @@
-replicaCount: 4
+prometheus:
+  replicaCount: 4
