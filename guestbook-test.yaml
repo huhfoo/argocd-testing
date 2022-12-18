@@ -1,13 +1,1 @@
-fullnameOverride: tempo-vulture-testing
-
-resources:
-  requests:
-    cpu: 150m
-    memory: 128Mi
-  limits:
-    cpu: 120m
-    memory: 256Mi
-
-tempoAddress:
-  push: http://tempo-distributor
-  query: http://tempo-query-frontend:3100
+replicas: 5
