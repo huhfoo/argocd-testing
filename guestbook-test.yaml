@@ -1,1 +1,5 @@
 replicas: 5
+
+tempoAddress:
+  push: http://tempo-distributor
+  query: http://tempo-query-frontend:3100
