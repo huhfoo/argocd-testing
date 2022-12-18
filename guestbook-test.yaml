@@ -1,4 +1,11 @@
-replicas: 5
+fullnameOverride: tempo-xx
+
+serviceMonitor:
+  enabled: true
+  labels:
+    testing: enabled
+
+replicas: 3
 
 tempoAddress:
   push: http://tempo-distributor
