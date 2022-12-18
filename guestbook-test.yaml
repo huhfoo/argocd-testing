@@ -1,4 +1,4 @@
-replicas: 3
+replicas: 10
 
 tempoAddress:
   push: http://tempo-distributor
