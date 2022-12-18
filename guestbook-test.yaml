@@ -1,2 +1,2 @@
-prometheus:
-  enabled: false
+server:
+  replicaCount: 4
