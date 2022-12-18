@@ -1,4 +1,4 @@
-fullnameOverride: tempo-vulture
+fullnameOverride: tempo-vulture-testing
 
 resources:
   requests:
