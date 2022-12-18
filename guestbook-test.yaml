@@ -1,2 +1,2 @@
 prometheus:
-  replicaCount: 4
+  enabled: false
